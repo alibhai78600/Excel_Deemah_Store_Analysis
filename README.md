@@ -60,8 +60,9 @@ Enable Macros/Content if prompted.
 Use the Slicers on the left side to interact with the data.
 
 👤 Author
-Ali Hussain
+**Ali Hussain**  
+Aspiring Data Analyst | Power BI | Excel | SQL |Pytho
 
-LinkedIn: ali-hussain-12294b343
+LinkedIn: 🔗 "https://www.linkedin.com/in/ali-hussain-12294b343/"
 
 Portfolio: [Your Portfolio Link]
