@@ -52,7 +52,7 @@ Clone this repository:
 
 Bash
 
-git clone https://github.com/your-username/deemah-store-analysis.git
+git clone https://github.com/alibhai78600/Excel_Deemah_Store_Analysis/tree/main
 Open the .xlsx file in Microsoft Excel (2016 or later recommended).
 
 Enable Macros/Content if prompted.
@@ -62,6 +62,6 @@ Use the Slicers on the left side to interact with the data.
 👤 Author
 Ali Hussain
 
-LinkedIn: [Your Profile Link]
+LinkedIn: ali-hussain-12294b343
 
 Portfolio: [Your Portfolio Link]
