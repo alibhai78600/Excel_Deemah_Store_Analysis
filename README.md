@@ -65,4 +65,4 @@ Aspiring Data Analyst | Power BI | Excel | SQL |Pytho
 
 LinkedIn: 🔗 "https://www.linkedin.com/in/ali-hussain-12294b343/"
 
-Portfolio: [Your Portfolio Link]
+Portfolio: https://alibhai78600.github.io/alihussain.github.io/
